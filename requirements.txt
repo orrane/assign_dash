@@ -2,10 +2,7 @@ streamlit
 pandas
 plotly
 numpy
-scipy.stats
-statsmodels.tsa.ar_model
-plotly.express
-matplotlib.pyplot
+scipy
+statsmodels
+matplotlib
 seaborn
-statsmodels.api
-statsmodels.tsa.stattools
