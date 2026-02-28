@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+numpy
+scipy.stats
+statsmodels.tsa.ar_model
+plotly.express
+matplotlib.pyplot
+seaborn
+statsmodels.api
+statsmodels.tsa.stattools
